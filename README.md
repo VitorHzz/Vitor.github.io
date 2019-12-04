@@ -1,1 +1,1 @@
-http//:Vitor.github.io.com
+http://Vitor.github.io.com
